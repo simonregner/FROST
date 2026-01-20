@@ -60,4 +60,4 @@ class_id x1 y1 x2 y2 ... xn yn
 
 **License:** CC BY-NC-SA 
 You are free to share and adapt the dataset with appropriate credit.  
-Please cite this dataset if used in research or publications.
+If you use this data set in research or in a publication, please cite it using the following publication:
