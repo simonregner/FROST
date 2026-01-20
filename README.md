@@ -12,9 +12,7 @@ The **Forest Road Segmentation Dataset** is hosted by **Graz University of Techn
 **🔗 Download page:**  
 👉 **[TU Graz – Forest Road Segmentation Dataset](https://cloud.tugraz.at/index.php/s/7ATWiRSXwtm9NRX)**
 
-The website provides access to the full dataset, including RGB images, depth maps, and corresponding YOLO segmentation labels, along with additional metadata and documentation.
-
-Please ensure that you comply with the license terms when using the dataset.
+The website provides access to the full dataset, including RGB images, depth maps, and corresponding YOLO segmentation labels.
 
 ---
 
