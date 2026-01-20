@@ -1,4 +1,4 @@
-# Forest Road Segmentation Dataset
+# Forest ROad STereo-camera Dataset
 
 This dataset contains synchronized RGB images, depth maps, and YOLO-format segmentation labels for forest road scene analysis.  
 It is intended for research on road understanding, path detection, and segmentation tasks.
