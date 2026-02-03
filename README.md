@@ -61,3 +61,12 @@ class_id x1 y1 x2 y2 ... xn yn
 **License:** CC BY-NC-SA 
 You are free to share and adapt the dataset with appropriate credit.  
 If you use this data set in research or in a publication, please cite it using the following publication:
+
+@inproceedings{DidariIV2026ForestGNSS,
+  author    = {Didari, Hamid and Wipfler, Hans-Peter and Regner, Simon and Oberpertinger, Jakob and Fraundorfer, Friedrich and Steinbauer-Wagner, Gerald},
+  title     = {Autonomous Driving on Forest Roads under Unreliable GNSS},
+  booktitle = {Proceedings of the IEEE Intelligent Vehicles Symposium (IV)},
+  year      = {2026},
+  address   = {IEEE},
+  note      = {Accepted for publication},
+}
